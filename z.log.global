@@ -1,0 +1,18 @@
+** compiled at:     Nov 26 2024 16:46:14
+** execution start: 2025-05-01 14:40:22:845134
+graph.cpp:initParameters:1512(3) opening config file 'rai.cfg'
+graph.cpp:initParameters:1519(3)  - failed
+graph.cpp:initParameters:1525(3) opening base config file '/root/local/rai/../local.cfg'
+graph.cpp:initParameters:1531(3)  - failed
+util.cpp:cd_start:1034(3) entering path '/home/omer/Desktop/lra'
+util.cpp:cd_file:1042(3) entering path './LIRA-Labwork/config' from '/home/omer/Desktop/lra'
+util.cpp:getIs:1071(3) opening input file 'mp-1.g'
+util.cpp:cd_start:1034(3) entering path '/home/omer/Desktop/lra/LIRA-Labwork/config'
+util.cpp:getIs:1071(3) opening input file 'base-walls-min.g'
+util.cpp:cd_start:1034(3) entering path '/home/omer/Desktop/lra/LIRA-Labwork/config'
+util.cpp:cd_start:1034(3) entering path '/home/omer/Desktop/lra'
+** execution stop: 2025-05-01 14:45:09:730010
+** real time: 286.885sec
+** CPU time: 26.6002
+
+** set+queried params:
